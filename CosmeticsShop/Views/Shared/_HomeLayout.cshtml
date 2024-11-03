@@ -1,0 +1,335 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="~/Content/js/jquery.min.js"></script>
+    <!-- Custom Theme files -->
+    <!--theme-style-->
+    <link href="~/Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/Content/css2/style.css" rel='stylesheet' type='text/css' />
+    <link href="~/Content/Content2/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="~/Content/Content2/css/vendor.css" rel="stylesheet" />
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="@ViewBag.Title" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+    <!-- start menu -->
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <!-- slide -->
+    <!-- animation-effect -->
+
+    <link href="~/Content/css/animate.min.css" rel="stylesheet">
+    <script src="~/Content/js/wow.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    <!-- Thêm thư viện ResponsiveSlides -->
+    <script src="https://cdn.jsdelivr.net/responsiveslides/1.55/responsiveslides.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <!-- //animation-effect -->
+</head>
+<body>
+    <!--header-->
+    <div class="header">
+        <div class="header-top">    
+            <div class="container">
+                <div class="col-sm-4 logo animated wow fadeInLeft" data-wow-delay=".5s">
+                    @*<img style="height:120px; width:140px" src="~/Content/images/d9f40a9094ab556ceb53d73140bb7859.jpg" />*@
+                    <img src="~/Content/Content2/images/logo2.png" />
+
+                </div>
+                <div class="col-sm-4 world animated wow fadeInRight" data-wow-delay=".5s">
+                    <div class="cart box_1">
+                        <a href="/Cart/Checkout">
+                            <h3>
+                                <div class="total">
+                                    @{
+                                        List<CosmeticsShop.Models.ItemCart> itemCarts = Session["Cart"] as List<CosmeticsShop.Models.ItemCart>;
+                                        if (itemCarts != null && itemCarts.Count > 0)
+                                        {
+                                            <span class="simpleCart_total">@itemCarts.Sum(x => x.ProductPrice * x.Quantity).ToString("#,##")₫ (@itemCarts.Sum(x => x.Quantity))</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="simpleCart_total">0₫ (0)</span>
+                                        }
+                                    }
+                                </div>
+                                <img src="~/Content/images/cart.png" alt="" />
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+                @{
+                    CosmeticsShop.Models.User user = Session["User"] as CosmeticsShop.Models.User;
+
+                    if (user != null)
+                    {
+                        <input type="text" id="UserID" value="@user.ID" hidden />
+                        <div class="col-sm-2 number animated wow fadeInRight" data-wow-delay=".5s">
+                            <span><i class="glyphicon glyphicon-user"></i><a href="/User/CheckoutOrder">@user.Name</a></span>
+                        </div>
+                    }
+                }
+                <div class="col-sm-2 search animated wow fadeInRight" data-wow-delay=".5s">
+                    <a class="play-icon popup-with-zoom-anim" href="#small-dialog"><i class="glyphicon glyphicon-search"> </i> </a>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="head-top">
+                <div class="n-avigation">
+
+                    <nav class="navbar nav_bottom" role="navigation">
+
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header nav_2">
+                            <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="#"></a>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+                            <ul class="nav navbar-nav nav_1" style="display: inline; padding: 0;">
+                                <li style="display: inline;"><a href="/" style="text-decoration:none; display: inline-block; padding: 10px;">Trang chủ</a></li>
+                                <li style="display: inline;"><a href="/Product/" style="text-decoration:none; display: inline-block; padding: 10px;">Sản phẩm</a></li>
+                                @if (user != null)
+                                {
+                                    <li style="display: inline;"><a href="/Home/SignOut" style="text-decoration:none; display: inline-block; padding: 10px;">Đăng xuất</a></li>
+                                }
+                                else
+                                {
+                                    <li style="display: inline;"><a href="/Home/SignUp" style="text-decoration:none; display: inline-block; padding: 10px;">Đăng ký</a></li>
+                                    <li style="display: inline;"><a href="/Home/SignIn" style="text-decoration:none; display: inline-block; padding: 10px;">Đăng nhập</a></li>
+                                }
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+
+                    </nav>
+                </div>
+
+
+                <div class="clearfix"> </div>
+                <!---pop-up-box---->
+                <link href="~/Content/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+                <script src="~/Content/js/jquery.magnific-popup.js" type="text/javascript"></script>
+                <!---//pop-up-box---->
+                <div id="small-dialog" class="mfp-hide">
+                    <div class="search-top">
+                        <div class="login">
+                            <form action="/Product/Index" method="get">
+                                <input type="submit" value="">
+                                <input type="text" name="keyword" value="Nhập vào từ khóa..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <script>
+                    $(document).ready(function () {
+                        $('.popup-with-zoom-anim').magnificPopup({
+                            type: 'inline',
+                            fixedContentPos: false,
+                            fixedBgPos: true,
+                            overflowY: 'auto',
+                            closeBtnInside: true,
+                            preloader: false,
+                            midClick: true,
+                            removalDelay: 300,
+                            mainClass: 'my-mfp-zoom-in'
+                        });
+
+                    });
+                </script>
+                <!---->
+            </div>
+        </div>
+    </div>
+
+    @RenderBody()
+
+
+   
+        
+    <!--footer-->
+<footer id="footer" class="overflow-hidden">
+    <div class="container">
+        <div class="row">
+            <div class="footer-top-area">
+                <div class="row d-flex flex-wrap justify-content-between" style="padding-top: 74px; ">
+                    <div class="col-lg-3 col-sm-6 pb-3" style="margin-left:-100px">
+                        <div class="footer-menu">
+
+                            <img src="~/Content/Content2/images/logo2.png" />
+                            <p>Nhắc đến Lancôme, phái đẹp lại nhớ tới đây là hãng mỹ phẩm cao cấp. Với những dòng mỹ phẩm hổ trợ việc làm đẹp, từ phần nền, son môi, kem dưỡng. Từ các sản phẩm dùng để trang điểm tới chăm sóc da. Nhưng thứ tạo nên danh tiếng của Lancome hay chính là nơi bắt nguồn của Mỹ phẩm Lancôme lại chính là nước hoa.</p>
+                            <div class="social-links">
+                                <ul class="d-flex list-unstyled">
+                                    <li>
+                                        <a href="#">
+                                            <svg class="facebook">
+                                                <use xlink:href="#facebook" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <svg class="instagram">
+                                                <use xlink:href="#instagram" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <svg class="twitter">
+                                                <use xlink:href="#twitter" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <svg class="linkedin">
+                                                <use xlink:href="#linkedin" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <svg class="youtube">
+                                                <use xlink:href="#youtube" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-6 pb-3">
+                        <div class="footer-menu text-uppercase">
+                            <h5 class="widget-title pb-2">Quick Links</h5>
+                            <ul class="menu-list list-unstyled text-uppercase ">
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Home</a>
+                                </li>
+                                <li class="menu-item pb-2" style="text-decoration:none">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">About</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Shop</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Blogs</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 pb-3">
+                        <div class="footer-menu text-uppercase">
+                            <h5 class="widget-title pb-2">Help & Info Help</h5>
+                            <ul class="menu-list list-unstyled">
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Track Your Order</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Returns Policies</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration:none">Shipping + Delivery</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration: none">Contact Us</a>
+                                </li>
+                                <li class="menu-item pb-2">
+                                    <a href="#" style="color: #fa03bb; text-decoration:none">Faqs</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 pb-3">
+                        <div class="footer-menu contact-item">
+                            <h5 class="widget-title text-uppercase pb-2">Contact Us</h5>
+                            <p>
+                                Do you have any queries or suggestions? <a href="mailto:" style="color: #fa03bb; text-decoration: none">yourinfo@gmail.com</a>
+                            </p>
+                            <p>
+                                If you need support? Just give us a call. <a href="" style="color: #fa03bb; text-decoration: none">+55 111 222 333 44</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <script>
+        
+        var footerLinks = document.querySelectorAll('#footer a');
+
+     
+        footerLinks.forEach(function (link) {
+            link.addEventListener('click', function (event) {
+          
+                event.preventDefault();
+
+                
+              
+            });
+        });
+    </script>
+</footer>
+    <div id="footer-bottom">
+        <div class="container">
+            <div class=" d-flex flex-wrap justify-content-between" style="position: relative; bottom: -335px;">
+                <div class="col-md-4 col-sm-6">
+                    <div class="Shipping d-flex">
+                        <p>We ship with:</p>
+                        <div class="card-wrap ps-2">
+
+                            <img src="~/Content/Content2/images/dhl.png" alt="visa">
+                            <img src="~/Content/Content2/images/shippingcard.png" alt="mastercard">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="payment-method d-flex">
+                        <p>Payment options:</p>
+                        <div class="card-wrap ps-2">
+                            <img src="~/Content/Content2/images/visa.jpg" />
+
+                            <img src="~/Content/Content2/images/mastercard.jpg" />
+
+                            <img src="~/Content/Content2/images/paypal.jpg" />
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+   
+
+    <script src="~/Content/js/notify.min.js"></script>
+
+    <script src="~/Scripts/jquery.signalR-2.4.2.min.js"></script>
+    <script src="~/signalr/hubs" type="text/javascript"></script>
+    <link href="~/Content/css/chatbox.css" rel="stylesheet" />
+    <script src="~/Content/js/chatbox.js"></script>
+</body>
+</html>

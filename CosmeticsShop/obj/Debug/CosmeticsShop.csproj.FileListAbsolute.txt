@@ -1,0 +1,329 @@
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.dll.config
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Console.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\WebGrease.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csproj.CopyComplete
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\PayPal.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\PayPal.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.ComponentModel.Annotations.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Data.SqlClient.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\TableDependency.SqlClient.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Owin.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ClosedXML.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EPPlus.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\OfficeOpenXml.Extends.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.IO.Packaging.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ClosedXML.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ClosedXML.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EPPlus.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csproj.AssemblyReference.cache
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.dll.config
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.pdb
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe.config
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.rsp
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe.config
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.rsp
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Console.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Compression.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Claims.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.ValueTuple.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.rsp
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ClosedXML.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EPPlus.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\OfficeOpenXml.Extends.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Owin.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\PayPal.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.ComponentModel.Annotations.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Data.SqlClient.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.IO.Packaging.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\TableDependency.SqlClient.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\WebGrease.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ClosedXML.pdb
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ClosedXML.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EPPlus.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\PayPal.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.pdb
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.pdb
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Data.Common.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csprojResolveAssemblyReference.cache
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.dll.config
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\CosmeticsShop.pdb
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe.config
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.rsp
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe.config
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.rsp
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Console.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Compression.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Claims.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.ValueTuple.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.rsp
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ClosedXML.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EPPlus.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\OfficeOpenXml.Extends.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Owin.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\PayPal.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.ComponentModel.Annotations.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Data.Common.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Data.SqlClient.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.IO.FileSystem.Primitives.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.IO.Packaging.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\TableDependency.SqlClient.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\WebGrease.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ClosedXML.pdb
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ClosedXML.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\EPPlus.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\PayPal.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.pdb
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csproj.AssemblyReference.cache
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csproj.CoreCompileInputs.cache
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.csproj.CopyComplete
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.dll
+D:\Ki2_Nam3\LapTrinhWeb_2023\Đồ Án\Đồ án\CosmeticsShop\CosmeticsShop\obj\Debug\CosmeticsShop.pdb
